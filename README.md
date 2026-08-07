@@ -43,3 +43,45 @@ customers.
 | Male | 157,890 |
 
 2.	High-Spending Discount Users – Identified customers who used discounts but still spent above the average purchase amount.
+
+3.	Top 5 Products by Rating – Found products with the highest average review ratings.
+
+4.	Shipping Type Comparison – Compared average purchase amounts between Standard and Express shipping.
+
+5.	Subscribers vs. Non-Subscribers – Compared average spend and total revenue across subscription status.
+
+6.	Discount-Dependent Products – Identified 5 products with the highest percentage of discounted purchases.
+
+7.	Customer Segmentation – Classified customers into New, Returning, and Loyal segments based on purchase history.
+
+| Customer Segment | Number Of Customers |
+| :--- | :--- |
+| Loyal | 3116 |
+| New | 83 |
+| Returning | 701 |
+
+8.	Top 3 Products per Category – Listed the most purchased products within each category.
+
+9.	Repeat Buyers & Subscriptions – Checked whether customers with >5 purchases are more likely to subscribe.
+
+| Subscription Status | Repeat Buyers |
+| :--- | :--- |
+| No | 2518 |
+| Yes | 958 |
+
+10.	Revenue by Age Group – Calculated total revenue contribution of each age group.
+
+## 5.	Dashboard in Power BI  
+  
+Finally, Built an interactive dashboard in Power BI to present insights visually. 
+
+## 6.	Business Recommendations  
+●	Boost Subscriptions – Promote exclusive benefits for subscribers.  
+  
+●	Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal” segment.  
+  
+●	Review Discount Policy – Balance sales boosts with margin control.  
+  
+●	Product Positioning – Highlight top-rated and best-selling products in campaigns.  
+  
+●	Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping users.  
